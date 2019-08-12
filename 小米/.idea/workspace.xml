@@ -9,24 +9,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaomi.css">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaomi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="461" column="24" lean-forward="true" selection-start-line="461" selection-start-column="24" selection-end-line="461" selection-end-column="24" />
+            <state relative-caret-position="-20">
+              <caret line="2362" column="5" lean-forward="true" selection-start-line="2362" selection-start-column="5" selection-end-line="2362" selection-end-column="5" />
+              <folding>
+                <element signature="n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xiaomi.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/xiaomi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="609" column="40" lean-forward="true" selection-start-line="609" selection-start-column="40" selection-end-line="609" selection-end-column="40" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaomi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="1132" column="21" selection-start-line="1132" selection-start-column="21" selection-end-line="1132" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -35,27 +67,59 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nr-box</find>
+      <find>flash</find>
+      <find>subr</find>
+      <find>dhb</find>
+      <find>box1-</find>
+      <find>rightb</find>
+      <find>good</find>
+      <find>rig</find>
+      <find>rightbox1</find>
+      <find>jd</find>
+      <find>}</find>
+      <find>jiadianr</find>
+      <find>new1</find>
+      <find>right0</find>
+      <find>lunbor</find>
+      <find>act</find>
+      <find>lbjtr</find>
+      <find>zir</find>
+      <find>xiala</find>
+      <find>box</find>
+      <find>.box</find>
+      <find>header-</find>
+      <find>rguding</find>
+      <find>inp</find>
+      <find>input</find>
+      <find>car</find>
+      <find>tc</find>
+      <find>sou</find>
+      <find>bots</find>
+      <find>nr-box-3</find>
+      <find>nn1</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/xiaomi.js" />
         <option value="$PROJECT_DIR$/xiaomi.css" />
         <option value="$PROJECT_DIR$/xiaomi.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="948" />
-    <option name="height" value="1038" />
+    <option name="x" value="215" />
+    <option name="y" value="13" />
+    <option name="width" value="975" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,13 +130,12 @@
             <path>
               <item name="小米" type="b2602c69:ProjectViewProjectNode" />
               <item name="小米" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,24 +166,29 @@
       <option name="presentableId" value="Default" />
       <updated>1563435355999</updated>
       <workItem from="1563435368764" duration="82026000" />
+      <workItem from="1563756218459" duration="25262000" />
+      <workItem from="1563845879281" duration="691000" />
+      <workItem from="1563863887421" duration="296000" />
+      <workItem from="1564073358799" duration="1044000" />
+      <workItem from="1564189001263" duration="2449000" />
+      <workItem from="1564278182146" duration="1011000" />
+      <workItem from="1565073972379" duration="8589000" />
+      <workItem from="1565146598318" duration="9834000" />
+      <workItem from="1565227574086" duration="10986000" />
+      <workItem from="1565249403229" duration="1114000" />
+      <workItem from="1565341291076" duration="13851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82026000" />
+    <option name="totallyTimeSpent" value="157153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121313676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1038874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -128,11 +196,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,19 +216,52 @@
     <entry file="file://$PROJECT_DIR$/img/shoujileft.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/130110945/FileRecv/animate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/xiaomi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xiaomi.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="461" column="24" lean-forward="true" selection-start-line="461" selection-start-column="24" selection-end-line="461" selection-end-column="24" />
+        <state relative-caret-position="472">
+          <caret line="1132" column="21" selection-start-line="1132" selection-start-column="21" selection-end-line="1132" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaomi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="609" column="40" lean-forward="true" selection-start-line="609" selection-start-column="40" selection-end-line="609" selection-end-column="40" />
+        <state relative-caret-position="-20">
+          <caret line="2362" column="5" lean-forward="true" selection-start-line="2362" selection-start-column="5" selection-end-line="2362" selection-end-column="5" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#2;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#3;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#4;n#div#1;n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
