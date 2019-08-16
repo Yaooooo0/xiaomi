@@ -217,7 +217,14 @@ em{
     float: right;
     position: relative;
 }
-
+.header-search:hover input{
+    border-color:#b0b0b0;
+    transition: opacity 0.5s;
+}
+.header-search:hover .sou{
+    border-color:#b0b0b0;
+    transition: opacity 0.5s;
+}
 input{
     width: 223px;
     height: 48px;
@@ -413,6 +420,7 @@ input{
     height: 460px;
     float: left;
     position: relative;
+
 }
 .lunboright a{
     width: 992px;
@@ -422,7 +430,7 @@ input{
     top: 0;
     left: 0;
      transition: opacity 1s;
-        /*opacity: 0;*/
+        opacity: 0;
 }
 .lunboright a img{
     width: 100%;
