@@ -1026,6 +1026,13 @@
     <div class="db">顶部</div>
 
 </div>
+<div class="toptop">
+    <div class="toptop1">
+        <div class="zizi">TMALL 天猫</div>
+        <input type="text" placeholder="搜索 天猫 商品/品牌/店铺">
+        <input type="button" class="ssss" value="搜索">
+    </div>
+</div>
 </body>
 <script>
     let ceils = document.querySelectorAll(".lunbotuimg .lunbotubox")
@@ -1096,7 +1103,7 @@
      let guding1 =document.querySelector(".guding1")
     let boxs=document.querySelectorAll(".lt666")
     let dhr2=document.querySelectorAll(".dhr2")
-
+    let toptop=document.querySelector(".toptop")
     let arr=[]
     boxs.forEach(function (item) {
         arr.push(item.offsetTop)
@@ -1107,8 +1114,10 @@
         let value=boxs[0].offsetTop-800
         if(scrollTop>value){
             guding1.style.transform="scale(1,1)"
+            toptop.style .transform="scale(1,1)"
         }else{
             guding1.style.transform="scale(0,0)"
+            toptop.style .transform="scale(0,0)"
         }
 
         let index=arr.findIndex((item)=>{
@@ -1123,6 +1132,7 @@
                 item.style.backgroundColor=""
             }
         })
+
     }
     // //懒加载
     // let index2=arr.findIndex(function (item) {

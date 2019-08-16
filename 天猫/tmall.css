@@ -1452,3 +1452,52 @@ padding-top: 100px;
 .dhr2:hover{
     background-color: #00B262;
 }
+.toptop{
+    width:100%;
+    height: 50px;
+    background-color:#FF0036;
+    transition: top .3s ease-out;
+    box-shadow: 0 0 4px #eaeaea;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+     z-index: 99999999;
+    opacity: 0.9;
+transform: scale(0,0);
+}
+.toptop1{
+    width:1230px;
+    height: 100%;
+    margin: 0 auto;
+
+}
+.zizi{
+    width: 124px;
+    height: 50px;
+    font-size: 20px;
+    vertical-align: middle;
+    text-align: center;
+   line-height: 50px;
+    color: white;
+    float: left;
+}
+.toptop1 input{
+    display: block;
+    width: 648px;
+    height: 30px;
+    float: left;
+    margin-left:120px;
+    margin-top: 10px;
+    color: #aaaaaa;
+    outline:none;
+}
+.toptop1 .ssss{
+    float: left;
+    width: 90px;
+    border: 0;
+    font-size: 16px;
+    margin-left: 0;
+    cursor: pointer;
+    color: #fff;
+    background-color: #FF0036;
+}
